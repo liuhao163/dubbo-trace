@@ -1,0 +1,1 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.xiaojukeji.sec.icorp.trace.zipkin.config.EnableTraceAutoConfiguration
